@@ -19,3 +19,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=altay-akyurek&show_icons=true&locale=en" alt="altay-akyurek" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=altay-akyurek&" alt="altay-akyurek" /></p>
+
+
+![snake gif](https://github.com/Altay-Akyurek/Altay-Akyurek/blob/output/github-contribution-grid-snake.gif)
