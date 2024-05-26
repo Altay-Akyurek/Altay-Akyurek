@@ -21,4 +21,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=altay-akyurek&" alt="altay-akyurek" /></p>
 
 
-![snake gif](https://github.com/Altay-Akyurek/Altay-Akyurek/blob/output/github-contribution-grid-snake.gif)
