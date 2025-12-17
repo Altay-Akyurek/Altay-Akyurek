@@ -1,4 +1,4 @@
-[![MasterHead](https://www.webtekno.com/images/editor/default/0002/62/0e5500416721d90965c0efbea1ef2960705c4f41.jpeg)
+
 <h1 align="center">Hi 👋, I'm Altay Akyürek</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
